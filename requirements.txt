@@ -1,0 +1,5 @@
+streamlit
+paho-mqtt
+plotly
+pandas
+streamlit-autorefresh
